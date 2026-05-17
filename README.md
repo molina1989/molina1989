@@ -1,6 +1,8 @@
-## Hi there 👋
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://molina1989.github.io">Edison Molina</a> 👋</h1>
+</div>
 
-<img src="https://i.imgur.com/SmQkv1z.png">
+<img style="width:100%; display:block" src="https://i.imgur.com/SmQkv1z.png">
 
 
 <!--
