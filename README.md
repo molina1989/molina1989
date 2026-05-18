@@ -5,7 +5,11 @@
 <img style="width:100%; display:block" src="https://imgur.com/aQ2Vi3M.png">
 
 <p></p>
+
+## Perfil
+
 <p align="justify"> 
+  Soy un Ingeniero de Desarrollo con más de una década de experiencia, combinando una base académica (TSU en Informática e Ing. en Desarrollo Endógeno) con una trayectoria profesional versátil. Mis inicios en el desarrollo de software en PDVSA - Guardián del Alba me equiparon con la experiencia fundamental para trabajar con el ciclo de vida completo de proyectos, desempeñando roles clave desde Analista y Programador hasta Arquitecto de Bases de Datos. Esta experiencia me ha convertido en un desarrollador full-stack adaptable, experto en integrar ecosistemas robustos utilizando Python, PHP, JavaScript, y PostgreSQL, con familiaridad en sistemas como Odoo y metodologías con Git. Actualmente, mi enfoque se centra en la creación de soluciones dinámicas y eficientes utilizando tecnologías modernas como Laravel y Vue.js, complementadas por mi conocimiento en Django, Laravel, Node.js, React, Vue y Angular. Busco aplicar esta rica experiencia técnica para impulsar el éxito en proyectos desafiantes, desde la arquitectura backend hasta la implementación frontend.
 </p>
 
 ## Herramientas y tecnologías ⚙️
