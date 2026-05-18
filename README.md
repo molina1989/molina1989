@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://molina1989.github.io">Edison Molina</a> 👋</h1>
 </div>
 
-<img style="width:100%; display:block" src="https://i.imgur.com/SmQkv1z.png">
+<img style="width:100%; display:block" src="https://imgur.com/aQ2Vi3M.png">
 
 <p></p>
 <p align="justify"> 
@@ -12,7 +12,7 @@
 
 > Herramientas y tecnologías con las que he trabajado
 
-<table style="width:100%; display:block" >
+<table>
   <tr>
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=php" alt="icon" width="48 height="48" />
