@@ -4,6 +4,10 @@
 
 <img style="width:100%; display:block" src="https://imgur.com/aQ2Vi3M.png">
 
+<a href="https://www.linkedin.com/in/edisonrmolinar/">
+<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>
+
 <p></p>
 
 ## Perfil
