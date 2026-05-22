@@ -2,7 +2,7 @@
 <h1 align="center">Hola, soy <a href="https://molina1989.github.io">Edison Molina</a> 👋</h1>
 </div>
 
-<img style="width:100%; display:block" src="https://imgur.com/aQ2Vi3M.png">
+<img style="width:100%; display:block" src="https://imgur.com/wzqepHM.png">
 
 <a href="https://www.linkedin.com/in/edisonrmolinar/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
